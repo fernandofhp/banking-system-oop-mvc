@@ -43,6 +43,6 @@ Sistema executado via terminal com:
 ## ▶️ Como executar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/banco-megabank.git
+git clone https://github.com/fernandofhp/banking-system-oop-mvc.git
 cd banco-megabank
 python main.py
