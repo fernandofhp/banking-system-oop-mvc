@@ -1,3 +1,5 @@
+<img width="579" height="141" alt="image" src="https://github.com/user-attachments/assets/7c2ce709-bfba-4ea1-a416-e74a528092a9" />
+
 # 💰 Megabank - Sistema Bancário em Python (MVC + OOP)
 
 Sistema bancário desenvolvido em Python utilizando boas práticas de arquitetura, com separação em camadas (MVC), orientação a objetos e interface em terminal com formatação profissional.
