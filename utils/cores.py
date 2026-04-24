@@ -1,0 +1,5 @@
+VERDE = "\033[92m"
+VERMELHO = "\033[91m"
+AZUL = "\033[94m"
+NEGRITO = "\033[1m"
+RESET = "\033[0m"
