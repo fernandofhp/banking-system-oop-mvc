@@ -1,5 +1,4 @@
-<div style="display: flex; justify-content: center;">
-<img width="579" height="141" alt="image" src="https://github.com/user-attachments/assets/7c2ce709-bfba-4ea1-a416-e74a528092a9" align="center" /></div>
+<img width="579" height="141" alt="image" src="https://github.com/user-attachments/assets/7c2ce709-bfba-4ea1-a416-e74a528092a9" align="center" />
 
 # 💰 Megabank - Sistema Bancário em Python (MVC + OOP)
 
